@@ -1,0 +1,28 @@
+
+  .App {
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: burlywood;
+}
+  
+ 
+.uses {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: burlywood;
+}
+
+.matter {
+    width: 100%;
+    height: 80vh;
+    padding-top:100px ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: burlywood;
+}
